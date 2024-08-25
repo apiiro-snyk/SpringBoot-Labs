@@ -35,7 +35,7 @@
         <dependency>
             <groupId>tk.mybatis</groupId>
             <artifactId>mapper-spring-boot-starter</artifactId>
-            <version>2.1.5</version>
+            <version>5.0.0</version>
         </dependency>
         <!-- 实现对 PageHelper 的自动化配置-->
         <dependency>
