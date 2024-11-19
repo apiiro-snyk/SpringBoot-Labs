@@ -22,14 +22,14 @@
         <dependency>
             <groupId>de.codecentric</groupId>
             <artifactId>spring-boot-admin-starter-server</artifactId>
-            <version>2.2.0</version>
+            <version>3.3.5</version>
         </dependency>
 
         <!-- 实现对 Eureka Client 的自动化配置 -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-            <version>2.2.1.RELEASE</version>
+            <version>3.0.0</version>
         </dependency>
     </dependencies>
 
